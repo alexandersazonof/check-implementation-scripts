@@ -1,0 +1,20 @@
+{
+  "name": "check-implementation-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "env": "^0.0.2",
+    "fm": "^0.8.0",
+    "node-fetch": "^2.6.7",
+    "web3": "^1.7.3"
+  }
+}
